@@ -1,0 +1,7 @@
+Sum of two numbers 
+
+START
+READ no1,no2
+SET sum = no1 + no2
+PRINT sum
+End
