@@ -17,3 +17,19 @@ git status
 git commit -m "initial-commit"
 
 git push -u origin main 
+
+
+
+
+
+
+
+git config --global user.name "swajal14"
+git config --global user.email "swajalkumarkachhi@gmail.com"
+git config --list
+git init --initial-branch=main
+git remote add origin https//:GitHub.com/swajal14/my-first-prac-repo/git
+git add .
+git status
+git commit -m "initial-commit"
+git push -u origin main
